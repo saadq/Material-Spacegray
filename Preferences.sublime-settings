@@ -1,0 +1,10 @@
+/* 
+   * MATERIALIZE THEME PREFERENCES
+   * Default settings
+  ========================================================================= */
+{
+
+  // On OSX, default title bar theming to true
+  "material_theme_title_bar": true
+
+}

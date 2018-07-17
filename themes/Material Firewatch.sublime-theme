@@ -1,5 +1,18 @@
 [
 
+  /* @ WINDOW - TITLE BAR
+   * Style for window title bar
+  ========================================================================= */
+
+    {
+        "class": "title_bar",
+        "settings": ["material_theme_title_bar"],
+        "platforms": ["osx"],
+        "fg": [175, 189, 196],
+        "bg": [35, 39, 47]
+    },
+
+
   /* @ EMPTY WINDOW
    * Style for empty (no tabs) window
   ========================================================================= */
